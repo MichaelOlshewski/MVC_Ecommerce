@@ -4,7 +4,6 @@ using System.ComponentModel.DataAnnotations;
 namespace Ecommerce.Models
 {
     public class AppUser : IdentityUser
-
     {
         [Required]
         public string Name { get; set; }
