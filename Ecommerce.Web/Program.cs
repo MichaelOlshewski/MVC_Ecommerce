@@ -1,3 +1,4 @@
+using Ecommerce.DataAccess;
 using Ecommerce.DataAccess.Data;
 using Ecommerce.DataAccess.DbInitializer;
 using Ecommerce.DataAccess.Repository;
